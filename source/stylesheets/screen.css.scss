@@ -262,7 +262,7 @@ html, body {
   // I know, it's hackish, but it's the simplist way to make the left
   // half of the content always this background color.
   .dark-box {
-    width: $examples-width;
+    width: $result-width;
     background-color: $examples-bg;
     position: absolute;
     right: 0;
@@ -273,7 +273,7 @@ html, body {
   .lang-selector {
     position: fixed;
     z-index: 50;
-    border-bottom: 5px solid $lang-select-active-bg;
+    border-bottom: 5px solid $nav-active-bg;
   }
 }
 
@@ -283,6 +283,7 @@ html, body {
   width: 100%;
   font-weight: bold;
   overflow-x: auto;
+  border-bottom: 5px solid $nav-active-bg;
   a {
     display: inline;
     color: $lang-select-text;
@@ -293,12 +294,12 @@ html, body {
 
     &:active, &:focus {
       background-color: $lang-select-pressed-bg;
-      color: $lang-select-pressed-text;
+      color: $active-link;
     }
 
     &.active {
       background-color: $lang-select-active-bg;
-      color: $lang-select-active-text;
+      color: $active-link;
     }
   }
 
@@ -328,7 +329,7 @@ html, body {
   }
 
   &>h1, &>h2, &>h3, &>h4, &>h5, &>h6, &>p, &>table, &>ul, &>ol, &>aside, &>dl {
-    margin-right: $examples-width;
+    margin-right: $result-width;
     padding: 0 $main-padding;
     box-sizing: border-box;
     display: block;
@@ -462,6 +463,14 @@ html, body {
     padding: 0;
   }
 
+  ul li a {
+    color: $content-link;
+
+    &:hover {
+      color: #f1c946;
+    }
+  }
+
   aside {
     padding-top: 1em;
     padding-bottom: 1em;
@@ -476,6 +485,19 @@ html, body {
 
     &.success {
       background-color: $aside-success-bg;
+
+      .task-link {
+        margin-top: 14px;
+        margin-bottom: 0;
+      }
+
+      a {
+        color: $content-link;
+
+        &:hover {
+          color: #f1c946;
+        }
+      }
     }
   }
 
@@ -521,7 +543,7 @@ html, body {
     color: #fff;
 
     margin: 0;
-    width: $examples-width;
+    width: $result-width;
 
     float:right;
     clear:right;
