@@ -26,9 +26,9 @@
 
 * [Регистрация на Гитхабе](https://htmlacademy.ru/blog/boost/tools/register-on-github-work-with-console) - 30 мин
 
-* [Полезные команды для работы с Git](https://htmlacademy.ru/blog/boost/tools/register-on-github-work-with-console) - 30 мин
+* [Полезные команды для работы с Git](https://htmlacademy.ru/blog/boost/tools/useful-commands-for-working-with-git) - 30 мин
 
-* [Требования к именам коммитов](https://htmlacademy.ru/blog/boost/tools/useful-commands-for-working-with-git) - 30 мин
+* [Требования к именам коммитов](https://docs.rs.school/#/git-convention) - 30 мин
 
 * [Как разместить приложение на  GitHub Pages](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/create-github-pages.md) - 30 мин
 
@@ -89,11 +89,11 @@
 Время на прохождение раздела - 6.30 часов.
 </aside>
 
-* [HTML для самых маленьких](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc) - 2.5 часа
+* [HTML для самых маленьких](https://www.youtube.com/playlist?list=PL3LQJkGQtzc7aWRyr-GaxyO_dwj5inJ1t) - 2.5 часа
 
-* [HTML для начинающих](https://webdesign-master.ru/blog/html-css/2.html) - 2.5 часа
+* [HTML для начинающих](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc) - 2.5 часа
 
-* [Справочник EMMET сокращений для ускорения верстки](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc) - 30 мин
+* [Справочник EMMET сокращений для ускорения верстки](https://webdesign-master.ru/blog/html-css/2.html) - 30 мин
 
 * [Плагин Emmet - обзор](https://www.youtube.com/watch?v=WeNN9So5DTs)
 

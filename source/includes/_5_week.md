@@ -93,7 +93,7 @@
 
 <aside class="success">
     Выполнить задания:
-    <p class="task-link"><b><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/codewars-basic.mdhttps://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/projects.md#task-2-dynamic-landing-page-30" target="blank">Dynamic Landing Page</a></b> - 6 часов
+    <p class="task-link"><b><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/projects.md#task-2-dynamic-landing-page-30" target="blank">Dynamic Landing Page</a></b> - 6 часов
     </p>
     <p class="task-link"><b><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/projects.md#task-3-meditation-app-20" target="blank">Meditation App</a></b> - 4 часа</p>
     <p class="task-link"><b><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/projects.md#task-4-drum-kit-20" target="blank">Meditation AppDrum Kit</a></b> - 4 часа</p>
